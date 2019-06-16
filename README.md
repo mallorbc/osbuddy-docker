@@ -3,6 +3,8 @@
 ## Overview
 This docker image was created to allow me to play OSRS(old school Runescape) on my laptop with a 4k display.  Prior to creating this image, if I tried to play OSRS on my laptop, the game would would have scaling issues with the menu.  By using this image, the problem has been fixed.
 
+This docker image is based off of consol/ubuntu-xfce-vnc.  Information on that can be seen [here](https://hub.docker.com/r/consol/ubuntu-xfce-vnc/)
+
 ## Use Cases
 1. As mentioned, this docker image fixes issues with scaling.
 2. This image allows one to quickly play on any OS that supports docker
